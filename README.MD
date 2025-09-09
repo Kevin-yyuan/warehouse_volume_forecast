@@ -28,12 +28,11 @@ The primary goal is to assist a warehouse manager with operational planning by b
 
 ## 📂 Project Structure
 
-.
-├── 🐍 app.py # The Python script for the Streamlit web application.
-├── 📓 warehouse_volume_forecast.ipynb # Jupyter Notebook with detailed EDA and model evaluation.
-├── 📊 warehouse_daily_volume.csv # The synthetic dataset used for training.
-├── 📄 requirements.txt # A list of Python libraries required to run the project.
-└── 📜 README.md # This file.
+├── 🐍 app.py  
+├── 📓 warehouse_volume_forecast.ipynb  
+├── 📊 warehouse_daily_volume.csv  
+├── 📄 requirements.txt  
+└── 📜 README.md
 
 ## 💻 How to Run Locally
 
@@ -42,7 +41,7 @@ To run this application on your own machine, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/Kevin-yyuan/warehouse_volume_forecast.git)
+    git clone https://github.com/Kevin-yyuan/warehouse_volume_forecast.git
     cd warehouse_volume_forecast
     ```
 
