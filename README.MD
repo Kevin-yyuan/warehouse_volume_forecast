@@ -1,13 +1,11 @@
 # 📦 Warehouse Volume Time-Series Forecast
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([YOUR-STREAMLIT-APP-URL-HERE])
-
 This project provides a 4-week forecast of weekly container volume for a warehouse. It uses a time-series model to predict future demand, turning a complex data science model into a simple, interactive web application for operational planning.
 
 ## 🚀 Live Demo
 
 You can access the live, interactive application here:
-**[➡️ View the Deployed Streamlit App]([YOUR-STREAMLIT-APP-URL-HERE])**
+**[➡️ View the Deployed Streamlit App](https://warehouse-volume-forecast.streamlit.app/)**
 
 ## 🎯 Project Goal
 
@@ -43,8 +41,8 @@ To run this application on your own machine, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR-GITHUB-USERNAME]/[YOUR-REPOSITORY-NAME].git
-    cd [YOUR-REPOSITORY-NAME]
+    git clone [https://github.com/](https://github.com/Kevin-yyuan/warehouse_volume_forecast.git)
+    cd warehouse_volume_forecast
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
