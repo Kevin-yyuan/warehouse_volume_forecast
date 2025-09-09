@@ -28,6 +28,7 @@ The primary goal is to assist a warehouse manager with operational planning by b
 
 ## 📂 Project Structure
 
+.
 ├── 🐍 app.py # The Python script for the Streamlit web application.
 ├── 📓 warehouse_volume_forecast.ipynb # Jupyter Notebook with detailed EDA and model evaluation.
 ├── 📊 warehouse_daily_volume.csv # The synthetic dataset used for training.
