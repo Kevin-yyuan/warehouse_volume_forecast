@@ -1,6 +1,6 @@
-streamlit,
-pandas,
-prophet,
-matplotlib,
-plotly,
+streamlit
+pandas
+prophet
+matplotlib
+plotly
 statsmodels
